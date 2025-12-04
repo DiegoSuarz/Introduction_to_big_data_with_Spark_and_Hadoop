@@ -1,0 +1,4 @@
+para abrir pyspark - shell spark 
+ejecutar para activar el entorno de python:
+
+sparkenv
